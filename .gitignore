@@ -1,0 +1,7 @@
+.env
+**/.env
+Secrets.swift
+xcuserdata/
+build/
+DerivedData/
+.DS_Store
